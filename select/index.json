@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ヒューマニティ！",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-03-02T18:31:59.361508Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヒューマニティ！",
+      "artist": "Sambomaster",
+      "has_synced": true,
+      "path": "select/01_ヒューマニティ!_Sambomaster.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヒューマニティ!",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_ヒューマニティ!_サンボマスター.txt"
+    }
+  ]
+}
